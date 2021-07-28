@@ -1,0 +1,21 @@
+{
+    "name": "dharmveer/contact",
+    "description": "Powerful contact management package",
+    "type": "library",
+    "keywords": ["database", "contact", "email", "laravel"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dharmveer singh",
+            "email": "dharmveersingh@aleaitsolutions.in"
+        }
+    ],
+    "require": {
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Dharmveer\\Contact\\": "src/"
+        }
+    }
+}
